@@ -21,6 +21,8 @@ Day 16 adds fifteen interactive moments:
 - A gift that unwraps itself, with a shareable link.
 - Type "kesar" anywhere.
 
+Motion layer three: far jumps in the menu flood the screen with saffron dye and land on the section, images open like a crocus, a red thread draws under every heading, section edges slosh like milk when you scroll fast, ritual cards tilt with a light glare, and every click scatters a little pollen. All of it switches off with reduced motion.
+
 Open `index.html` through any static server (the film loads from `pack/`).
 
 Concept website · sample products, prices and lab values · not a real store.
